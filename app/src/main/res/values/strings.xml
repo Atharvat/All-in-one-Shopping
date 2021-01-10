@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dream</string>
+    <string name="action_reset">Reset</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fulfillment_symbol">fulfillment symbol</string>
+    <string name="product_image">Product Image</string>
+    <string name="oneplus_six_url">https://www.amazon.in/OnePlus-Midnight-Black-128GB-Storage/dp/B0756YZHV5/</string>
+    <string name="oneplus6tImageUrl">https://images-eu.ssl-images-amazon.com/images/I/41fBRgy0ipL._AC_SX348_SY500_FMwebp_QL65_.jpg</string>
+    <string name="amazon_in">amazon.in</string>
+    <string name="waitforproducttoload">Please wait while the product loads</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="add_to_wishlist">Add to Wishlist</string>
+    <string name="features_and_details">Features and Details</string>
+
+
+</resources>
